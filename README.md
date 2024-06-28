@@ -1,8 +1,6 @@
-Here's a template for your README on GitHub, structured according to the provided guidelines:
 
----
 
-Pet Classifier - Identifying Dogs and Cats Based on Physical Attributes
+# Pet Classifier - Identifying Dogs and Cats Based on Physical Attributes
 
 ## Summary
 **Name**: Pet Classifier  
