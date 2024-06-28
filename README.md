@@ -2,9 +2,9 @@ Here's a template for your README on GitHub, structured according to the provide
 
 ---
 
-# Project Title: Pet Classifier - Identifying Dogs and Cats Based on Physical Attributes
+Pet Classifier - Identifying Dogs and Cats Based on Physical Attributes
 
-## Your idea in a nutshell
+## Summary
 **Name**: Pet Classifier  
 **Description**: A machine learning project to classify whether an animal is a dog or a cat based on its physical attributes such as height, weight, and length.
 
